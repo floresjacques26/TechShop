@@ -1,5 +1,7 @@
 # TechShop
 API RESTful utilizando Java com Spring Boot, integrando com PostgreSQL e usando Spring Data JPA.
+
+
 Você é um desenvolvedor júnior recém-contratado por uma startup chamada "TechShop", que está lançando uma plataforma de comércio eletrônico. A equipe de desenvolvimento já criou o front-end da aplicação web, e agora é sua responsabilidade criar uma API para permitir que os clientes acessem informações sobre produtos e façam pedidos.
 
 Sua tarefa é desenvolver uma API RESTful utilizando Java com o framework Spring Boot para atender aos requisitos de funcionalidade da TechShop. Nesta prova prática, você será avaliado com base na criação de endpoints com seus métodos HTTP adequados, na implementação da camada de serviço e na integração com o banco de dados. A equipe precisa integrar essa API com um banco de dados PostgreSQL usando Spring Data JPA para permitir a persistência dos dados.
